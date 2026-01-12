@@ -1,7 +1,8 @@
-# Autonomy Stack
+# Autonomy Stack (SUDARSHANA)
 
-This repository contains modules related to robot autonomy,
-including planning, control, and decision-making components.
+This repository contains high-level autonomy components
+for MIRAI robotic systems.
 
-Work here focuses on building reliable, real-world autonomy
-for mobile and robotic systems.
+It covers ROS2-based navigation, SLAM, localization,
+planning, behavior orchestration, and system-level
+decision-making for autonomous operation.
